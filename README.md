@@ -2,6 +2,8 @@
 
 A framework for organizing moral priorities around the elimination of suffering.
 
+![image](https://github.com/user-attachments/assets/36b6c6f3-5690-400e-9214-3782b634d4e3)
+
 ## Core Framework
 
 ### Axiom
