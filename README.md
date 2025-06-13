@@ -7,10 +7,10 @@ A framework for organizing moral priorities around the elimination of suffering.
 ## Core Framework
 
 ### Axiom
-Suffering is intrinsically morally urgent to eliminate.
+My own suffering is real.
 
 ### Assumption
-Outside myself, claims of suffering are assumed to be equally valid to mine as viewed externally. I prioritize my own only when conflict arises because I can only feel my own pain directly.
+Others suffer as I do.
 
 ### Protocols
 - **Treat all self-reported suffering as real and worst-case** unless response suffering costs exceed benefits in direct suffering terms
