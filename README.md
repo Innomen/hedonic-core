@@ -74,6 +74,9 @@ This framework is designed to be stress-tested and improved through collaborativ
 - Implementation challenges in real-world scenarios
 - Scenarios where following the core leads to outcomes that violate its own principles
 
+### Stress Testing the Framework
+- Try to break the core, then respond from the core's perspective. If the framework is sound, both sides should make internal sense. Like double entry book keepings for philosphy.
+
 ## FAQ
 
 **Q: Does this mean we should eliminate all challenge, growth, and difficulty?**
