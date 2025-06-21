@@ -88,6 +88,9 @@ A: Find systemic solutions that eliminate both sources of suffering without crea
 **Q: What if someone reports suffering from others' joy?**
 A: Treat the report as real and investigate root causes. Often this reveals deeper issues around inequality, exclusion, or unmet needs that can be addressed systemically.
 
+**Q: What about fake suffering reports and manipulation?
+A: The core creates a detection network, not just individual reporting. Empathetic observers following the core will themselves suffer when witnessing others' pain, creating automatic detection that can't be faked. False reports still indicate underlying suffering - desperation, mental health issues, unmet needs that drove the lying behavior. The question isn't "are they lying?" but "what suffering caused this?" Gaming the system just creates more signals for the system to detect and address.
+
 ## License
 
 CC BY-SA (Self defence.)
