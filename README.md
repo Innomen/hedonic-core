@@ -25,7 +25,7 @@ The axiom establishes subjective experience as definitionally real, not as claim
 
 ### Protocols
 - **Treat all self-reported suffering as real and worst-case** unless response suffering costs exceed benefits in direct suffering terms
-- **No suffering spikes are ever tolerated** regardless of future gains
+- **No torture for optimization** (no suffering spikes): Don't systematically inflict suffering for abstract gains or metrics. Emergency harm prevention (pushing someone from traffic) is different from inflicted or allowed suffering for promised benefits. You can't please everyone, but you can refuse to torture anyone.
 - **Preserve diversity of beings and systems** as suffering-detection and death avoidance mechanisms
 - **Eliminate compelled activity** that disconnects beings from their ethical agency - including through coerced consent, economic duress, manufactured volition, or artificial scarcity - through automation
 - **Feeling beings hold moral authority** over non-feeling matter expressly because it's not possible to abuse in the absence of feeling
@@ -67,6 +67,10 @@ Ending pain, extending life, expanding freedom and joy. Eliminate suffering comp
 - Suffering from bad proposals triggers the no-spike rule, forcing better solutions
 
 ## Common Applications
+
+## Implementation Guidelines
+
+**The framework doesn't grant superpowers.** You do your best with the resources and time available. When facing impossible choices or resource constraints, accept that perfect implementation isn't possible - failures become information for improving systemic approaches. Don't abandon the principles due to implementation challenges, but don't expect to solve unsolvable problems either. The goal is sustainable progress, not perfect outcomes.
 
 ### Individual Level
 - Prioritize eliminating suffering in your immediate sphere
