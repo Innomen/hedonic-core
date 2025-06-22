@@ -101,3 +101,5 @@ CC BY-SA (Self defence.)
 ## Status
 
 This is a living document. The framework is designed to evolve through community input and real-world testing.
+
+See also: https://www.youtube.com/watch?v=TKO8C0XRFxs
