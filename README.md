@@ -117,6 +117,18 @@ A: Treat the report as real and investigate root causes. Often this reveals deep
 **Q: What about fake suffering reports and manipulation?**
 A: The core creates a detection network, not just individual reporting. Empathetic observers following the core will themselves suffer when witnessing others' pain, creating automatic detection that can't be faked. False reports still indicate underlying suffering - desperation, mental health issues, unmet needs that drove the lying behavior. The question isn't "are they lying?" but "what suffering caused this?" Gaming the system just creates more signals for the system to detect and address.
 
+**Q: Could this justify eliminating all consciousness to eliminate suffering?**
+A: No. The framework requires preserving diversity and optimizing joy, which requires conscious beings. Eliminating the capacity for suffering violates the core's other requirements - you can't maximize joy without beings capable of experiencing it.
+
+**Q: Won't weaponized suffering claims paralyze the system?**
+A: Weaponized claims create cascading suffering in observers and systems, making attacks self-defeating and detectable. The empathetic detection network suffers when witnessing manipulation, creating natural resistance. Plus, false claims still indicate underlying suffering that drove the deceptive behavior.
+
+**Q: What about infinite loops from conflicting suffering reports?**
+A: Detectable loops create their own suffering signals that force adaptation and improvement. Undetectable loops are unsolvable by any framework - if a problem can't be detected, no system can address it. The framework naturally develops loop-breaking mechanisms when the suffering from cycles becomes apparent.
+
+**Q: Doesn't "no suffering spikes ever" prevent all progress and change?**
+A: "No spikes" means no "temporary torture for future paradise" scenarios - preventing utility monster outcomes where present suffering is justified by promised future gains. It doesn't prohibit transition costs or chosen difficulties. The principle targets black mirror dystopias that excuse cruelty for abstract benefits, not all forms of change or challenge.
+
 ## License
 
 CC BY-SA (Self defence.)
