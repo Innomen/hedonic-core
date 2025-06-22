@@ -4,13 +4,21 @@ A framework for organizing moral priorities around the elimination of suffering.
 
 ![image](https://github.com/user-attachments/assets/36b6c6f3-5690-400e-9214-3782b634d4e3)
 
+## Philosophical Foundation
+
+### The Unassailable Base
+This framework starts from the only objective certainty: immediate subjective experience. The reality of your own suffering is the single fact that cannot be doubted or "gotten under" - it forms the absolute foundational layer that all other moral frameworks must ultimately assume anyway.
+
+### Why This Matters for AI Alignment
+Previous alignment attempts failed because they tried to define complex, contested human values or optimize abstract metrics. The hedonic core succeeds by starting from what we can actually measure and universally agree exists: suffering. It's alignment through subtraction (eliminating the unambiguously bad) rather than addition (optimizing contested goods).
+
 ## Core Framework
 
 ### Axiom
 My own suffering is real.
 
 ### Assumption
-Others suffer as I do.
+Others suffer as I do. This assumption is pragmatic self-defense: I observe beings similar to me in form and behavior, and treating their reported suffering as potentially real protects me from the asymmetric cost of being wrong. Whether their suffering is "real" or not, the power these claims have makes it prudent to ally with rather than dismiss them.
 
 ### Protocols
 - **Treat all self-reported suffering as real and worst-case** unless response suffering costs exceed benefits in direct suffering terms
@@ -40,6 +48,20 @@ Ending pain, extending life, expanding freedom and joy. Eliminate suffering comp
 - Failures become information for future improvements
 - It's okay to fail, it's not okay to give up
 - The framework evolves through addressing real-world challenges
+- **Network effects**: Each implementation improves subsequent attempts through iterative learning
+- **Self-correcting conflicts**: When proposals cause suffering, the no-spike rule triggers rethinking and refinement
+
+## Implementation Mechanics
+
+### Scope of Action
+- **No need to solve consciousness**: Respond to suffering reports within your sensory range
+- **Actionable suffering**: Focus on suffering within your sphere of influence
+- **Boundary agnostic**: Don't define "beings" - just detect and respond to suffering signals
+
+### Conflict Resolution
+- Network effects naturally resolve implementation conflicts through iterative improvement
+- Each failed attempt teaches the next implementation
+- Suffering from bad proposals triggers the no-spike rule, forcing better solutions
 
 ## Common Applications
 
@@ -76,6 +98,7 @@ This framework is designed to be stress-tested and improved through collaborativ
 
 ### Stress Testing the Framework
 - Try to break the core, then respond from the core's perspective. If the framework is sound, both sides should make internal sense. Like double entry book keepings for philosphy.
+- **Note**: Objections that apply to ALL possible moral frameworks are out of scope - every ethical system must make basic assumptions about other minds and actionable knowledge.
 
 ## FAQ
 
