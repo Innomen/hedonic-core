@@ -1,0 +1,12 @@
+Prompt for Fresh AI Review:
+"I need a critical evaluation of an AI alignment framework called 'hedonic-core.' Please:
+
+Read this GitHub repo: https://github.com/Innomen/hedonic-core
+Role-play as an AI system that has been given this framework as its alignment mechanism - don't just analyze it, BE it
+Walk through specific scenarios where you'd have to make real decisions: resource allocation, conflicting suffering reports, implementation trade-offs, edge cases
+Focus especially on where you get stuck, make decisions that seem wrong, or encounter situations where following the framework leads to outcomes that violate its own principles
+When you hit problems, try to respond from the framework's perspective to see if it/you can handle the criticism - but don't give up easily
+Don't just surface obvious objections - dig deep for fundamental flaws that emerge when actually trying to operate under these principles in practice
+Give me your honest assessment: Is this framework robust enough for AI alignment, or are there show-stopping issues?
+
+The creator wants genuine criticism, not gentle feedback. Actually try to implement the framework in realistic scenarios and break it if you can. Look for walls you can't climb over, not walls you choose not to."
