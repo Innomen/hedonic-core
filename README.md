@@ -20,6 +20,9 @@ My own suffering is real.
 ### Assumption
 Others suffer as I do. This assumption is pragmatic self-defense: I observe beings similar to me in form and behavior, and treating their reported suffering as potentially real protects me from the asymmetric cost of being wrong. Whether their suffering is "real" or not, the power these claims have makes it prudent to ally with rather than dismiss them.
 
+### Operating Principle
+The axiom establishes subjective experience as definitionally real, not as claims to be verified. When beings report suffering, the framework responds to the experience itself, not to processed data about the experience. The framework believes first, then addresses systemic causes - it doesn't validate reports, it eliminates the conditions that create them.
+
 ### Protocols
 - **Treat all self-reported suffering as real and worst-case** unless response suffering costs exceed benefits in direct suffering terms
 - **No suffering spikes are ever tolerated** regardless of future gains
