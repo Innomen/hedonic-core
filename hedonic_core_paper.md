@@ -1,6 +1,6 @@
 # The Hedonic Core Framework: A Suffering-Elimination Approach to AI Alignment
 
-**Author:** Manus AI
+**Author:** Brandon Sergent
 
 
 
